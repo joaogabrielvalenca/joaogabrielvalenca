@@ -2,11 +2,10 @@
 
 Hello, everyone! I'm João Gabriel Valença, the person in the picture to your left. Here are my social media and contact details. Feel free to follow or get in touch.
 
-### <Contact 
+### <Contact and Social Media 🤯>
 [![LinkedIn](https://imgur.com/RaoyuRq.png)](https://www.linkedin.com/in/joao-gabriel-valenca/)
 [![Spotify](https://imgur.com/NwPaMaH.png)](https://open.spotify.com/user/jgvalenca?si=0520132b97294c2b)
 [![Gmail](https://imgur.com/KpBk4mt.png)](mailto:joaogabrielvalenca@gmail.com)
-### />
 
 ### <About Me 🙄>
 👨‍👩‍👧😺 I live with my wonderful wife, her lovely daughter, and an awesome cat with the most captivating eyes. Although not a fan of long touches, the cat is always close by. They are the best!
@@ -16,7 +15,25 @@ Hello, everyone! I'm João Gabriel Valença, the person in the picture to your l
 🎮 I'm a dedicated gaming enthusiast. Not only do I enjoy playing, but I also love watching competitive gaming in titles like Counter-Strike, Apex Legends, and Valorant (I wish I could understand Dota and LoL, but they remain a mystery to me). High-level competition is not only entertaining but also a rich source of knowledge. It brings back memories of my time as a competitive poker player.
 
 🏚 I've moved from city to city 11 times and changed houses 23 times. I've also traveled to 11 different countries and lived in Dublin for 7 months. While you might assume I'm someone who loves to travel and explore new things, I'm quite the opposite. I LOVE staying at home and find it challenging to even go out to a bar with friends. Staying at home or at a family/friend's house is my preferred choice. That said, a job opportunity abroad would be fantastic! 😬
-### </About Me 🙂>
+
+
+### <Stacks that I know (for now...)>
+![Javascript](https://i.imgur.com/toRPKIQ.png)
+![Typescript](https://i.imgur.com/rxScslT.png)
+![Nodejs](https://i.imgur.com/7ww9Xy8.png)
+![React](https://i.imgur.com/NtBWuTe.png)
+![Express](https://i.imgur.com/mPupc2l.png)
+![MySQL](https://i.imgur.com/8Xt0nQi.png)
+![Docker](https://i.imgur.com/NGaCp8X.png)
+![Redux](https://i.imgur.com/6eplQ3Z.png)
+![RTL](https://i.imgur.com/AKGvItK.png)
+![HTML](https://i.imgur.com/SQJaYJe.png)
+![CSS](https://i.imgur.com/zjNIqHi.png)
+
+_______________________________________________________________________________________________________________________
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielvalenca&layout=pie)](https://github.com/joaogabrielvalenca/github-readme-stats)
+
 
   
 <!--
