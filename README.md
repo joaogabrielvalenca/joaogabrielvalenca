@@ -8,6 +8,8 @@ Hello, everyone! I'm João Gabriel Valença, the person in the picture to your l
 [![Gmail](https://imgur.com/KpBk4mt.png)](mailto:joaogabrielvalenca@gmail.com)
 
 ### <About Me 🙄>
+🤓 I studied both Frontend (React) and Backend (NodeJs) at trybe. I think Front is a little bit more fun but Back is a little bit easier, so I'm fine with both. So just hire me and we both have the best of the worlds :)
+
 👨‍👩‍👧😺 I live with my wonderful wife, her lovely daughter, and an awesome cat with the most captivating eyes. Although not a fan of long touches, the cat is always close by. They are the best!
 
 🎵 I believe everyone has a favorite form of art, and mine is undoubtedly music (even though I have a slight anime addiction 🤫). I've been passionate about music since childhood. It started with Brazilian music, then transitioned to new metal, classic rock, progressive, and many more genres that might surprise you. Currently, I'm into instrumental music. I think removing vocals allows instruments to reach their full potential. As someone who values feelings over lyrics, this new phase (which has been going on for about three or four years now) is truly special, and nothing beats a perfectly timed beat.
