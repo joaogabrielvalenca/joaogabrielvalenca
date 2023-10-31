@@ -3,13 +3,13 @@
 Hello, everyone! I'm João Gabriel Valença, the person in the picture to your left. Here are my social media and contact details. Feel free to follow or get in touch.
 
 ### <Contact 
-[![LinkedIn](https://imgur.com/dveiLXc.png)](https://www.linkedin.com/in/joao-gabriel-valenca/)
-[![Spotify](https://imgur.com/CwrNpny.png)](https://open.spotify.com/user/jgvalenca?si=0520132b97294c2b)
-[![Gmail](https://imgur.com/5ntVDXc.png)](mailto:joaogabrielvalenca@gmail.com)
+[![LinkedIn](https://imgur.com/RaoyuRq.png)](https://www.linkedin.com/in/joao-gabriel-valenca/)
+[![Spotify](https://imgur.com/NwPaMaH.png)](https://open.spotify.com/user/jgvalenca?si=0520132b97294c2b)
+[![Gmail](https://imgur.com/KpBk4mt.png)](mailto:joaogabrielvalenca@gmail.com)
 ### />
 
 ### <About Me 🙄>
-👨‍👩‍👧😺 I live with my wife, her daughter, and a lovely cat with the most captivating eyes. Although not a fan of long touches, the cat is always close by. She's the best!
+👨‍👩‍👧😺 I live with my wonderful wife, her lovely daughter, and an awesome cat with the most captivating eyes. Although not a fan of long touches, the cat is always close by. They are the best!
 
 🎵 I believe everyone has a favorite form of art, and mine is undoubtedly music (even though I have a slight anime addiction 🤫). I've been passionate about music since childhood. It started with Brazilian music, then transitioned to new metal, classic rock, progressive, and many more genres that might surprise you. Currently, I'm into instrumental music. I think removing vocals allows instruments to reach their full potential. As someone who values feelings over lyrics, this new phase (which has been going on for about three or four years now) is truly special, and nothing beats a perfectly timed beat.
 
